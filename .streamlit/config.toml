@@ -1,0 +1,10 @@
+[ui]
+# Change the app name in the sidebar navigation
+logoPath = ""
+
+[client]
+# Show the sidebar navigation with custom app name
+showSidebarNavigation = true
+
+[theme]
+primaryColor = "#1f4e79"
